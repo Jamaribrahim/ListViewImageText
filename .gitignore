@@ -3,3 +3,4 @@
 /.vscode
 .classpath
 .project
+out/blocks/androidbuilder/
